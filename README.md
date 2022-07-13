@@ -1,5 +1,8 @@
 # Titanic_EDA
 
+
+Data Set link: [Here](https://www.kaggle.com/competitions/titanic/data?select=train.csv)
+
 ## Univariate Analysis
 
 
